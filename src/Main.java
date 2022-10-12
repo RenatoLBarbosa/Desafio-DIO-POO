@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         Vendedor funcionario1 = new Vendedor("Renato",45555512358L,500.00,5L);
