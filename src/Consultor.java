@@ -8,7 +8,13 @@ public class Consultor extends Funcionario {
         this.ValorHora = valorHora;
         this.HorasTrabalhadas = HorasTrabalhadas;
     }
+    public void setValorHora(Double valorHora) {
+        ValorHora = valorHora;
+    }
 
+    public void setHorasTrabalhadas(Long HorasTrabalhadas) {
+        HorasTrabalhadas = HorasTrabalhadas;
+    }
     @Override
     public String toString() {
         return "Consultor{" +
