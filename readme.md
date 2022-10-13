@@ -1,6 +1,7 @@
 <h1>Dominando Programação Orientada a Objetos com Java - Potência Tech by iFood
 </h1>
 <p>Repositório do código-base da mentoria <strong>Dominando Programação Orientada a Objetos com Java - Potência Tech by iFood</strong> oferecida pela <a href="https://web.dio.me/home"> Dio.me </a> em parceria com a <a href="https://potenciatech.com.br/">Potência Tech</a>.</p>
+<img src="https://user-images.githubusercontent.com/56805018/194964111-09e46c7a-2547-4a74-abe7-c46a26fd3217.png" alt="8c36ef13-eebb-4efa-9a13-31f1c315fc02" width="25%" height="25%">
 <h2 align="center"><a href="https://docs.google.com/presentation/d/1IWk0-EywsPULXgqi_DCop4iq49EK0eXd/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true" > Slides </a></h2>
 
 <h3>Pré-Requisitos</h3>
