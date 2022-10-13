@@ -11,6 +11,7 @@ public abstract class Funcionario {
 
     public Funcionario() {
     }
+
     public abstract Double CalcularSalario();
 
     public String getNome() {

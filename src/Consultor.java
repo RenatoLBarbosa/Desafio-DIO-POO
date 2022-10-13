@@ -12,8 +12,8 @@ public class Consultor extends Funcionario {
     @Override
     public String toString() {
         return "Consultor{" +
-                "Nome="+getNome()+
-                ", CPF="+getCpf()+
+                "Nome=" + getNome() +
+                ", CPF=" + getCpf() +
                 ", ValorHora=" + ValorHora +
                 ", HorasTrabalhadas=" + HorasTrabalhadas +
                 '}';
@@ -22,17 +22,8 @@ public class Consultor extends Funcionario {
     public Consultor() {
     }
 
-    public void setValorHora(Double valorHora) {
-        ValorHora = valorHora;
-    }
-
-    public void setHorasTrabalhadas(Long HorasTrabalhadas) {
-        HorasTrabalhadas = HorasTrabalhadas;
-    }
-
     @Override
     public Double CalcularSalario() {
-        Double salario = ValorHora*HorasTrabalhadas;
-        return salario;
+        return ValorHora * HorasTrabalhadas;
     }
 }

@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Vendedor extends Funcionario {
 
     private Double Comissao;
@@ -25,8 +23,8 @@ public class Vendedor extends Funcionario {
     @Override
     public String toString() {
         return "Vendedor{" +
-                "Nome="+getNome()+
-                ", CPF="+getCpf()+
+                "Nome=" + getNome() +
+                ", CPF=" + getCpf() +
                 ", Comissao=" + Comissao +
                 ", NumeroVendas=" + NumeroVendas +
                 '}';
@@ -35,7 +33,6 @@ public class Vendedor extends Funcionario {
     @Override
     public Double CalcularSalario() {
         Vendedor v = new Vendedor();
-        Double salario = v.getSalariomin() + (Comissao*NumeroVendas);
-        return salario;
+        return v.getSalariomin() + (Comissao * NumeroVendas);
     }
 }
