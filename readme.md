@@ -13,8 +13,8 @@
 </ul>
 
 <h3>Features</h3>
-![image](https://user-images.githubusercontent.com/56805018/195704967-414dda19-2d31-47a2-b64d-d185bc85451a.png)
-![image](https://user-images.githubusercontent.com/56805018/195705010-9c5fb747-c523-4f27-8d9d-32f65195d7ce.png)
+<img src="https://user-images.githubusercontent.com/56805018/195704967-414dda19-2d31-47a2-b64d-d185bc85451a.png">
+<img src="https://user-images.githubusercontent.com/56805018/195705010-9c5fb747-c523-4f27-8d9d-32f65195d7ce.png">
 
 Aplicando conhecimentos de POO em Java
 </p>
